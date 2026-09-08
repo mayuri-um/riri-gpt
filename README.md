@@ -5,3 +5,7 @@ riri-gpt is named riri cuz that's what my dearest friend Saber would call me and
 
 Due to some unexpected problems in my Kaggle notebook its taking longer than expected (well I'm actually new to kaggle so...)
 Well I'd say this is a good opportunity to f around and find new stuff out about Kaggle. Bear with me we'll find our way out(someday).
+
+Raw data: [1M Reddit Comments] (Kaggle)
+Cleaned & tokenized corpus
+Cleaning + tokenization code
