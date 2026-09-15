@@ -9,3 +9,6 @@ Well I'd say this is a good opportunity to f around and find new stuff out about
 Raw data: [1M Reddit Comments] (Kaggle)
 Cleaned & tokenized corpus
 Cleaning + tokenization code
+
+As of now I'm working on another pynb cuz my last one was too hard to update and commit here (very time consuming)
+So it will take longer :(
